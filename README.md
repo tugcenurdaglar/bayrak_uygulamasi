@@ -1,2 +1,2 @@
-<img src="https://github.com/tugcenurdaglar/sinav_notu_uygulamasi/blob/master/sinavnotu.gif" width="170px">
+<img src="https://github.com/tugcenurdaglar/bayrak_uygulamasi/blob/master/bayrakuygulamasi.gif" width="170px">
 Uygulamanın arayüzü SQL veri tabanıyla çalışır hale getirildi. Uygulamada başla butonuna basıldığında gelen bayrak resmine göre bir işaretleme yapılır. Yapılan işaretlemenin doğruluğu ekranda otomatik olarak belirtilir. Her bir  işaretleme sonrası sayfanın içeriği dinamik olarak güncellenir yani sayfa her defasında yeniden oluşturulmaz. Sorular tamamlandıktan sonra sonuç ekranı görüntülenir. Bu ekranda doğru ve yanlış sayısı, başarı oranı görülür. Tekrar dene butonuna basıldığında, uygulama tekrardan başlatılır.
